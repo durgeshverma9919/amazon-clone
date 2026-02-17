@@ -296,16 +296,4 @@ ul{
     background-size: cover;
       border: 1px solid transparent;
 }
-.boox{
-    display: block;
-}
-.boxc{
-    background-color: #0f1111;
-    height: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-top: 0.3px solid white;
-    color: white;
 
-}
