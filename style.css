@@ -16,7 +16,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("assest/amazon_logo.png");
     height: 50px;
     width: 100px;
     background-size: cover;
@@ -145,7 +145,7 @@ color: white;
 /* main */
 
 .hero{
-    background-image: url("hero_image.jpg");
+    background-image: url("assest/hero_image.jpg");
     height: 400px;
     background-size: cover;
     display: flex;
@@ -199,52 +199,52 @@ background-color: #e2e7e6;
 }
 
 .img1{
-    background-image: url("box1_image.jpg");
+    background-image: url("assest/box1_image.jpg");
 }
 .img2{
-    background-image: url("box2_image.jpg");
+    background-image: url("assest/box2_image.jpg");
 }
 .img3{
-    background-image: url("box3_image.jpg");
+    background-image: url("assest/box3_image.jpg");
 }
 .img4{
-    background-image: url("box4_image.jpg");
+    background-image: url("assest/box4_image.jpg");
 }
 .img5{
-    background-image: url("friendly-shop.jpg");
+    background-image: url("assest/friendly-shop.jpg");
 }
 .img6{
-    background-image: url("images.jpg");
+    background-image: url("assest/images.jpg");
 }
 .img7{
-    background-image: url("flowers.jpg");
+    background-image: url("assest/flowers.jpg");
 }
 .img8{
-    background-image: url("eye.jpg");
+    background-image: url("assest/eye.jpg");
 }
 .img9{
-    background-image: url("chair.jpg");
+    background-image: url("assest/chair.jpg");
 }
 .img10{
-    background-image: url("i\ phone.jpg");
+    background-image: url("assest/i\ phone.jpg");
 }
 .img11{
-    background-image: url("clothes.avif");
+    background-image: url("assest/clothes.avif");
 }
 .img12{
-    background-image: url("ac.jpg");
+    background-image: url("assest/ac.jpg");
 }
 .img13{
-    background-image: url("chess.jpg");
+    background-image: url("assest/chess.jpg");
 }
 .img14{
-    background-image: url("bike.jpg");
+    background-image: url("assest/bike.jpg");
 }
 .img15{
-    background-image: url("girls.jpg");
+    background-image: url("assest/girls.jpg");
 }
 .img16{
-    background-image: url("fan.webp");
+    background-image: url("assest/fan.webp");
 }
 
 footer{
